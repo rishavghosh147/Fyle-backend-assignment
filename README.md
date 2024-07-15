@@ -40,7 +40,7 @@ bash run.sh
 ### 4. Application will run on port 7755.
 
 
-## Some Extra test case has been added to make it more acurate.
+## Some Extra test cases has been added to make it more acurate.
    (total 38 test cases)
 
 ``
