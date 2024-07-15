@@ -25,10 +25,10 @@ docker-compose up
 git clone https://github.com/rishavghosh147/Fyle-backend-assignment.git
 ```
 
-### 2. Install all recurements(run in fyle-assignment folder):
+### 2. Install all requirements(run in fyle-assignment folder):
 
 ```
-pip3 install -r recurements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 3. Run server
@@ -39,18 +39,6 @@ bash run.sh
 
 ### 4. Application will run on port 7755.
 
-## Run Tests
-
-### 1. Run this command in fyle-assignment folder
-
-```
-export FLASK_APP=core/server.py
-rm core/store.sqlite3
-flask db upgrade -d core/migrations/
-pytest tests/ --cov-report html --cov
-```
-
-### 2. open htmlcov file to check coverage
 
 ## Some Extra test case has been added to make it more acurate.
    (total 38 test cases)
