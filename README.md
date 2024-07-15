@@ -25,7 +25,7 @@ docker-compose up
 git clone https://github.com/rishavghosh147/Fyle-backend-assignment.git
 ```
 
-### 2. Install all requirements(run in fyle-assignment folder):
+### 2. Install all requirements(run it into Fyle-backend-assignment folder):
 
 ```
 pip3 install -r requirements.txt
