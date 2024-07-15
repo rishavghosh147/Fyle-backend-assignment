@@ -5,11 +5,11 @@
 ### 1. Clone the repository into your local machine using:
 
 ```
-git clone https://github.com/ghoshrishav/Fyle-backend-assignment.git
+git clone https://github.com/rishavghosh147/Fyle-backend-assignment.git
 ```
    
 ### 2. For running the application on your local machine, please ensure that you have docker installed.
-### 3. Run the application using docker. (run it in fyle-assignment file):
+### 3. Run the application using docker. (run it into Fyle-backend-assignment file, cd Fyle-backend-assignment):
 
 ```
 docker-compose up
@@ -22,7 +22,7 @@ docker-compose up
 ### 1. Clone the repository into your local machine using:
 
 ```
-git clone https://github.com/ghoshrishav/Fyle-backend-assignment.git
+git clone https://github.com/rishavghosh147/Fyle-backend-assignment.git
 ```
 
 ### 2. Install all recurements(run in fyle-assignment folder):
@@ -53,7 +53,7 @@ pytest tests/ --cov-report html --cov
 ### 2. open htmlcov file to check coverage
 
 ## Some Extra test case has been added to make it more acurate.
-   (total 38 test case)
+   (total 38 test cases)
 
 ``
 *** my code coverage 99%.
